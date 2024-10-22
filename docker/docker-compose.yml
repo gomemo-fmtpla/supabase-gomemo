@@ -141,7 +141,7 @@ services:
 
       GOTRUE_EXTERNAL_GOOGLE_ENABLED: "true"
       GOTRUE_EXTERNAL_GOOGLE_CLIENT_ID: "1080992705378-dokvgej1c30hak29tjtluv19qsnv8b52.apps.googleusercontent.com"
-      GOTRUE_EXTERNAL_GOOGLE_SECRET: ""
+      GOTRUE_EXTERNAL_GOOGLE_SECRET: "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"
       GOTRUE_EXTERNAL_GOOGLE_REDIRECT_URI: "http://localhost:8000/auth/v1/callback"
 
       # Uncomment to enable custom access token hook. Please see: https://supabase.com/docs/guides/auth/auth-hooks for full list of hooks and additional details about custom_access_token_hook
